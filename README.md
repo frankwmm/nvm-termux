@@ -4,10 +4,15 @@
 
 
 ### Set permitions
-`chmod +x nvm-termux-installer.sh`
+```sh
+chmod +x nvm-termux-installer.sh
+```
 
 ### Execute
-`sh nvm-termux-installer.sh`
+
+```sh
+sh nvm-termux-installer.sh
+```
 
 Lista la receta!! :D
 
