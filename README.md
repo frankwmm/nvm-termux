@@ -1,7 +1,14 @@
 ## INSTALL
 
-### Download or clone this installer
+### Install
 
+```sh
+curl -o- https://raw.githubusercontent.com/frankwmm/nvm-termux/main/nvm-termux-installer.sh | bash
+```
+
+|| 
+
+// Si necesita permisos descargamos o clonamos el ssh 
 
 ### Set permitions
 ```sh
