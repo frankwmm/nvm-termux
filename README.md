@@ -5,6 +5,7 @@
 ```sh
 curl -o- https://raw.githubusercontent.com/frankwmm/nvm-termux/main/nvm-termux-installer.sh | bash
 ```
+![Texto alternativo](https://studyraft.com/wp-content/uploads/2022/04/NVM_LOGO.png)
 
 || 
 
