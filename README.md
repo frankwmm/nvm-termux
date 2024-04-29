@@ -24,6 +24,6 @@ chmod +x nvm-termux-installer.sh
 sh nvm-termux-installer.sh
 ```
 
-Lista la receta!! :D
+Lista la receta!! 🚀
 
 
